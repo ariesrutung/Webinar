@@ -1,0 +1,14 @@
+// js untuk modal  
+        $(document).ready(function(){
+ 
+      var url = $("#pesanan").attr('src');
+     
+      $("#formPesan").on('hide.fp.modal', function(){
+          $("#pesanan").attr('src', '');
+      });
+     
+      $("#formPesan").on('show.fp.modal', function(){
+          $("#pesanan").attr('src', url);
+      });
+    });
+// js untuk modal
