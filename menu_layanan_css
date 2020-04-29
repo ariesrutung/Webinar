@@ -1,0 +1,35 @@
+/* CSS UNTUK LAYANAN */
+      #menuLayanan {
+        padding-top: 10px;
+      }
+ 
+      #menuLayanan img {
+        width: 100%;
+        display: block;
+        padding: 10px;
+      }
+ 
+      #menuLayanan p {
+        text-align: center;
+        font-weight: bold;
+        color: #000;
+        margin-bottom: 5px;
+      }
+ 
+      #menuLayanan .col-sm-3 {
+        background-color: #f9cc4e;
+        width: 32%;
+        margin-right: .66%;
+        margin-left: .66%;
+        border-radius: 5px;
+      }
+      #menuLayanan h5 {
+        text-align: center;
+      }
+ 
+      #menuLayanan .row {
+        padding-bottom: 10px;
+        margin-right: 0px;
+        margin-left: 0px;
+      }
+/* AKHIR CSS UNTUK LAYANAN */
