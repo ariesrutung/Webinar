@@ -1,0 +1,62 @@
+/* CSS UNTUK MAKANAN */
+      #menuMakanan {
+        padding-top: 10px;
+      }
+ 
+      #menuMakanan img {
+        width: 100%;
+        margin-top: 15px;
+        border-radius: 10px;
+      }
+ 
+      #menuMakanan p {
+        text-align: center;
+        font-weight: bold;
+        color: #000;
+        margin-bottom: 0px;
+      }
+ 
+      #menuMakanan .col-sm-3 {
+        background-color: #f9cc4e;
+        width: 48%;
+        margin-right: 1%;
+        margin-left: 1%;
+        border-radius: 5px;
+        margin-bottom: 10px;
+ 
+      }
+      #menuMakanan h5 {
+        text-align: center;
+      }
+ 
+      #menuMakanan .harga {
+        float: left;
+      }
+      #menuMakanan svg {
+        float: left;
+        margin-top: 10px;
+      }
+ 
+      #menuMakanan .harga p {
+        float: center;
+        margin: 7px 20px 10px 20px;
+        font-weight: bold;
+      }
+ 
+      #menuMakanan .pesan {
+        float: right;
+      }
+ 
+      #menuMakanan .pesan p {
+        float: right;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+      }
+      #menuMakanan .pesan a {
+        font-size: 14px;
+      }
+      #menuMakanan .row {
+        margin-right: 0px;
+        margin-left: 0px;
+      }
+/* AKHIR CSS UNTUK  MAKANAN */
