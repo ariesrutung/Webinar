@@ -3,3 +3,11 @@
           width: 50%;
           padding-right: 0 5px;
       }
+ 
+      #logoToko img  {
+          display: block;
+          margin-left: auto;
+          margin-right: auto;
+          width: 100%;
+      }
+/* akhir css untuk logo-toko */
