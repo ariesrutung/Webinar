@@ -1,0 +1,32 @@
+<!-- ALL LAYANAN-->
+<div id="menuLayanan" class="container">
+  <div class="row">
+    <div class="col-sm-3" href="#formPesan" class="btn btn-success" data-toggle="modal">
+      <img src="https://image.flaticon.com/icons/svg/2836/2836500.svg">
+      <p>Makanan</p>
+    </div>
+    <div class="col-sm-3" href="#formPesan" class="btn btn-success" data-toggle="modal">
+      <img src="https://image.flaticon.com/icons/svg/2836/2836587.svg">
+      <p>Minuman</p>
+    </div>    
+    <div class="col-sm-3" href="#formPesan" class="btn btn-success" data-toggle="modal">
+      <img src="https://image.flaticon.com/icons/svg/2836/2836515.svg">
+      <p>Coffe</p>
+    </div>  
+  </div>
+  <div class="row">
+    <div class="col-sm-3" href="#formPesan" class="btn btn-success" data-toggle="modal">
+      <img src="https://image.flaticon.com/icons/svg/2836/2836500.svg">
+      <p>Makanan</p>
+    </div>
+    <div class="col-sm-3" href="#formPesan" class="btn btn-success" data-toggle="modal">
+      <img src="https://image.flaticon.com/icons/svg/2836/2836587.svg">
+      <p>Minuman</p>
+    </div>    
+    <div class="col-sm-3" href="#formPesan" class="btn btn-success" data-toggle="modal">
+      <img src="https://image.flaticon.com/icons/svg/2836/2836515.svg">
+      <p>Coffe</p>
+    </div>  
+  </div>
+</div>
+<!-- AKHIR DARI ALL LAYANAN-->
