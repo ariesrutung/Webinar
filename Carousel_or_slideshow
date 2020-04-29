@@ -1,0 +1,67 @@
+<!-- SLIDE SHOW -->
+<div id="slideShow" class="container">
+    <div id="carouselExampleCaptions" class="carousel slide" data-ride="carousel">
+      <ol class="carousel-indicators">
+        <li data-target="#ariesrutung" data-slide-to="0" class="active"></li>
+        <li data-target="#ariesrutung" data-slide-to="1"></li>
+        <li data-target="#ariesrutung" data-slide-to="2"></li>
+        <li data-target="#ariesrutung" data-slide-to="3"></li>
+        <li data-target="#ariesrutung" data-slide-to="4"></li>
+        <li data-target="#ariesrutung" data-slide-to="5"></li>
+        <li data-target="#ariesrutung" data-slide-to="6"></li>
+      </ol>
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img src="https://moondoggiesmusic.com/wp-content/uploads/2019/03/35e84674aaff2b7a8cdee644cef66a33.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Goreng</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://i.ytimg.com/vi/gffgdvDQ9PM/maxresdefault.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Kuah</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://cdn2.tstatic.net/bali/foto/bank/images/indomie-instan_20170712_125455.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Bakar</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://www.resepmasakankreatif.com/wp-content/uploads/2016/12/Resep-asam-pedas-ikan-bawal.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Bakar</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://cdn2.tstatic.net/pontianak/foto/bank/images/paket-iklan-nila-goreng-kremesasam-manis-es-teh-lemon-tea.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Bakar</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://asset-a.grid.id/crop/0x0:0x0/700x465/photo/2018/12/28/47486367.jpg" class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Bakar</h5>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <img src="https://cdn2.tstatic.net/tribunnews/foto/bank/images/cara-menggoreng-ikan-agar-tidak-menempel-di-wajan.jpg " class="d-block w-100" alt="...">
+          <div class="carousel-caption d-none d-md-block">
+            <h5>Mie Bakar</h5>
+          </div>
+        </div>      
+      </div>
+      <a class="carousel-control-prev" href="#ariesrutung" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Kembali</span>
+      </a>
+      <a class="carousel-control-next" href="#ariesrutung" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Maju</span>
+      </a>
+    </div>
+</div>
+<!-- AKHIR SLIDE SHOW -->
