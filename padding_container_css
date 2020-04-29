@@ -1,0 +1,5 @@
+/* css untuk semua class container */
+      .container {
+        padding: 0 5px;
+      }
+/* css untuk semua class container */
