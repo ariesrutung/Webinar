@@ -1,0 +1,9 @@
+<!-- ALERT -->
+<div id="peringatan" class="container">
+  <h5 style="text-align: center; font-size: 18px; padding-top: 10px;"><strong>Layanan</strong></h5>
+  <div class="alert alert-success alert-dismissible fade show" role="alert">
+    Beberapa layanan di bawah ini kami sediakan untuk mempermudah Anda. Klik untuk me-<i>review</i> layanan.
+  </div>
+</div>
+</div>
+<!-- ALERT -->
