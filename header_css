@@ -1,0 +1,5 @@
+/* css untuk logo-toko */
+      #logoToko  {
+          width: 50%;
+          padding-right: 0 5px;
+      }
