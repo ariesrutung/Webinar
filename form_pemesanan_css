@@ -1,0 +1,16 @@
+/* CLOSE BUTTON UNTUK MODAL */
+    .modal-header {
+      background-color: #f9cc4e;
+      height: 50px;
+      padding: 10px;
+    }
+    .modal-header .close {
+      background-image: url(https://image.flaticon.com/icons/svg/390/390914.svg);
+      height: 4px;
+      padding: 15px;
+      margin: 3px;
+      line-height: 1;
+      text-shadow: 0px;
+      opacity: 1;
+      }
+/* AKHIR CLOSE BUTTON UNTUK MODAL */
