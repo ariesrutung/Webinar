@@ -1,0 +1,19 @@
+/* CSS UNTUK MEMBUAT BUTTON KEMBALI KE ATAS */
+#atas {
+  position: fixed;
+  bottom: 4px;
+  right: 6px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #fff;
+  color: white;
+  cursor: pointer;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 16px;
+  background-image: url(https://image.flaticon.com/icons/svg/753/753359.svg);
+  height: 40px;
+  width: 40px;
+}
+/* AKHIR CSS UNTUK MEMBUAT BUTTON KEMBALI KE ATAS */
