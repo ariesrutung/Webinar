@@ -1,0 +1,5 @@
+/* comment untuk slide show */
+      .carousel-item img {
+        border-radius: 5px;
+      }
+/* comment untuk slide show */
